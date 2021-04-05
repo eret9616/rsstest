@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>NASA Image of the Day</title>
+ <description>The latest NASA &quot;Image of the Day&quot; image.</description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss" />
+ <language>en-us</language>
+ <managingEditor>yvette.smith-1@nasa.gov</managingEditor>
+ <webMaster>brian.dunbar@nasa.gov</webMaster>
+ <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+ <item> <title>A View of Northrop Grumman&#039;s Cygnus Resupply Ship</title>
+ <link>http://www.nasa.gov/image-feature/a-view-of-northrop-grummans-cygnus-resupply-ship</link>
+ <description>Northrop Grumman&#039;s Cygnus resupply ship, with its prominent cymbal-shaped UltraFlex solar arrays is pictured attached to the space station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss064e047042.jpg" length="5717899" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/a-view-of-northrop-grummans-cygnus-resupply-ship</guid>
+ <pubDate>Mon, 05 Apr 2021 07:50 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Hubble Revisits the Veil Nebula</title>
+ <link>http://www.nasa.gov/image-feature/goddard/2021/hubble-revisits-the-veil-nebula</link>
+ <description>This image taken by the NASA/ESA Hubble Space Telescope revisits the Veil Nebula, which was featured in a previous Hubble image release.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/potw2113a.jpg" length="39184034" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/goddard/2021/hubble-revisits-the-veil-nebula</guid>
+ <pubDate>Fri, 02 Apr 2021 08:54 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Space Station View of Sun Over Earth From Space</title>
+ <link>http://www.nasa.gov/image-feature/space-station-view-of-sun-over-earth-from-space</link>
+ <description>This view of Earth’s horizon as the Sun sets over the Pacific Ocean was taken by the Expedition 7 crew onboard the International Space Station in 2003.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/5091372229_ebca868ffd_o.jpeg" length="2165210" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/space-station-view-of-sun-over-earth-from-space</guid>
+ <pubDate>Wed, 31 Mar 2021 16:09 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Penny J. Pettigrew, ISS Payload Communications Manager at NASA’s Marshall Space Flight Center</title>
+ <link>http://www.nasa.gov/image-feature/penny-j-pettigrew-iss-payload-communications-manager-at-nasa-s-marshall-space-flight</link>
+ <description>As a payload communications manager Penny J. Pettigrew spends most days in the Payload Operations Integration Center at Marshall Space Flight Center.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/elg_1889.jpg" length="706937" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/penny-j-pettigrew-iss-payload-communications-manager-at-nasa-s-marshall-space-flight</guid>
+ <pubDate>Wed, 31 Mar 2021 07:43 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Exploring the Metal-Rich Asteroid Psyche</title>
+ <link>http://www.nasa.gov/image-feature/exploring-the-metal-rich-asteroid-psyche</link>
+ <description>Set to launch next year, NASA’s Psyche spacecraft will explore a metal-rich asteroid of the same name in the main asteroid belt between Mars and Jupiter.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia24472-psyche-asteroid-illustration-16_0.jpg" length="350737" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/exploring-the-metal-rich-asteroid-psyche</guid>
+ <pubDate>Tue, 30 Mar 2021 08:41 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Nearest Exoplanet to Our Solar System</title>
+ <link>http://www.nasa.gov/image-feature/nearest-exoplanet-to-our-solar-system</link>
+ <description>This artist&#039;s concept is of a Jupiter-mass planet orbiting the nearby star Epsilon Eridani.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/full_jpg_1.jpeg" length="503164" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/nearest-exoplanet-to-our-solar-system</guid>
+ <pubDate>Mon, 29 Mar 2021 09:02 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Expedition 65 Crew Press Conference</title>
+ <link>http://www.nasa.gov/image-feature/expedition-65-crew-press-conference</link>
+ <description>Expedition 65 backup and prime crew members are seen during a press conference.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/51069696391_fa096c36cf_o.jpeg" length="975221" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/expedition-65-crew-press-conference</guid>
+ <pubDate>Fri, 26 Mar 2021 08:57 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Frosty Sand Dunes of Mars</title>
+ <link>http://www.nasa.gov/image-feature/frosty-sand-dunes-of-mars</link>
+ <description>A field of sand dunes occupies this frosty 5-kilometer diameter crater in the high-latitudes of the northern plains of Mars.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia24420.jpeg" length="1230152" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/frosty-sand-dunes-of-mars</guid>
+ <pubDate>Thu, 25 Mar 2021 09:15 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Kate Rubins Works to Upgrade the Space Station</title>
+ <link>http://www.nasa.gov/image-feature/kate-rubins-works-to-upgrade-the-space-station</link>
+ <description>This image, taken on March 5, 2021, shows NASA astronaut Kate Rubins during a spacewalk to install solar array modification kits on the station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss064e039827_0.jpg" length="2055127" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/kate-rubins-works-to-upgrade-the-space-station</guid>
+ <pubDate>Tue, 23 Mar 2021 07:34 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Vision of a Stellar Ending</title>
+ <link>http://www.nasa.gov/image-feature/vision-of-a-stellar-ending</link>
+ <description>More than 11,000 years ago, a massive, supergiant star came to the end of its life.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/images/630022main_pia15480-full_full.jpg" length="5366327" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/vision-of-a-stellar-ending</guid>
+ <pubDate>Tue, 23 Mar 2021 06:44 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Exploring the Earth&#039;s Water</title>
+ <link>http://www.nasa.gov/image-feature/exploring-the-earths-water</link>
+ <description>NASA has investigated humanity&#039;s impact on a number of our home planet&#039;s natural resources and recently explored our impact on freshwater resources.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/lakemead.jpg" length="271241" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/exploring-the-earths-water</guid>
+ <pubDate>Mon, 22 Mar 2021 07:45 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Saturn&#039;s Spring</title>
+ <link>http://www.nasa.gov/image-feature/saturns-spring</link>
+ <description>Spring doesn&#039;t just hapen on Earth. Spring also happens on some of our neighboring planets in the solar system.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/images/554241main_pia11667_full.jpg" length="632529" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/saturns-spring</guid>
+ <pubDate>Fri, 19 Mar 2021 08:12 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>March 18, 1978: Space Shuttle Enterprise Arrives for Vibration Testing</title>
+ <link>http://www.nasa.gov/image-feature/march-18-1978-space-shuttle-enterprise-arrives-for-vibration-testing</link>
+ <description>On March 18, 1978, space shuttle Enterprise arrived at NASA’s Marshall Space Flight Center for mated vertical ground vibration testing.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/7887863_1041x833.jpg" length="436238" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/march-18-1978-space-shuttle-enterprise-arrives-for-vibration-testing</guid>
+ <pubDate>Thu, 18 Mar 2021 08:06 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Ingenuity Helicopter on Mars (Illustration)</title>
+ <link>http://www.nasa.gov/image-feature/jpl/ingenuity-helicopter-on-mars-illustration</link>
+ <description>An illustration of NASA’s Ingenuity Helicopter flying on Mars.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia24466-3000.jpg" length="277086" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/jpl/ingenuity-helicopter-on-mars-illustration</guid>
+ <pubDate>Wed, 17 Mar 2021 20:10 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Hubble Shows Us the Future</title>
+ <link>http://www.nasa.gov/image-feature/hubble-shows-us-the-future</link>
+ <description>Sometime in the far distant future, about 4 billion years from now, our Milky Way galaxy will collide with the neighboring Andromeda galaxy, as illustrated in this artist rendition.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/654242main_p1220b3k.jpg" length="553364" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/hubble-shows-us-the-future</guid>
+ <pubDate>Tue, 16 Mar 2021 08:50 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Testing the Mars Helicopter</title>
+ <link>http://www.nasa.gov/image-feature/testing-the-mars-helicopter</link>
+ <description>In this image from Jan. 18, 2019, Teddy Tzanetos, MiMi Aung and Bob Balaram of NASA’s Mars Helicopter project observe a flight test of a model of the Mars Helicopter.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/mimi_aung_plus_two.jpg" length="285423" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/testing-the-mars-helicopter</guid>
+ <pubDate>Fri, 12 Mar 2021 16:16 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>NASA Needs Pi!</title>
+ <link>http://www.nasa.gov/image-feature/nasa-needs-pi</link>
+ <description>NASA uses pi every day!</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia23916.jpg" length="12034944" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/nasa-needs-pi</guid>
+ <pubDate>Fri, 12 Mar 2021 08:06 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Japanese Astronaut Soichi Noguchi Works on Station&#039;s Solar Arrays</title>
+ <link>http://www.nasa.gov/image-feature/japanese-astronaut-soichi-noguchi-works-on-stations-solar-arrays</link>
+ <description>During the March 5, 2021, spacewalk, JAXA astronaut Soichi Noguchi spent nearly 7 hours working on the space station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss064e039894_0.jpg" length="1618704" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/japanese-astronaut-soichi-noguchi-works-on-stations-solar-arrays</guid>
+ <pubDate>Thu, 11 Mar 2021 08:23 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Portrait of a Nebula</title>
+ <link>http://www.nasa.gov/image-feature/portrait-of-a-nebula</link>
+ <description>This image from the NASA/ESA Hubble Space Telescope features an impressive portrait of M1-63, an example of a bipolar planetary nebula located in the constellation of Scutum (the Shield).</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/50993404591_78e2076652_o.jpg" length="94479" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/portrait-of-a-nebula</guid>
+ <pubDate>Wed, 10 Mar 2021 09:09 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Stacking Complete for Twin Space Launch System Rocket Boosters</title>
+ <link>http://www.nasa.gov/image-feature/stacking-complete-for-twin-space-launch-system-rocket-boosters</link>
+ <description>Stacking is complete for the twin Space Launch System (SLS) solid rocket boosters for NASA’s Artemis I mission.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/ksc-20210303-ph-ilw01_0008.jpg" length="17825379" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/stacking-complete-for-twin-space-launch-system-rocket-boosters</guid>
+ <pubDate>Tue, 09 Mar 2021 08:11 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Electrical Engineer and NASA Astronaut Joan Higginbotham</title>
+ <link>http://www.nasa.gov/image-feature/electrical-engineer-and-nasa-astronaut-joan-higginbotham</link>
+ <description>At NASA, women – be they scientists, pilots, astronauts and others – help the Agency fulfill its mission. Joan Higginbotham  is one of those women.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/images/715067main_JSC2003-00678_full.jpg" length="3811777" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/electrical-engineer-and-nasa-astronaut-joan-higginbotham</guid>
+ <pubDate>Mon, 08 Mar 2021 08:38 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Hypergiant Star Canis Majoris</title>
+ <link>http://www.nasa.gov/image-feature/hypergiant-star-canis-majoris</link>
+ <description>This artist&#039;s impression of hypergiant star VY Canis Majoris shows the star&#039;s vast convection cells and violent ejections.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/stsci-h-p2109c-m-2000x1125.png" length="8271468" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/hypergiant-star-canis-majoris</guid>
+ <pubDate>Fri, 05 Mar 2021 09:46 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Hubble: 30 Years and Counting</title>
+ <link>http://www.nasa.gov/image-feature/hubble-30-years-and-counting</link>
+ <description>It&#039;s March 2021 and in about another month the Hubble Space Telescope will celebrate 31 years in space observing the universe.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/stsci-h-p2016a-m-2000x1374.png" length="4551072" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/hubble-30-years-and-counting</guid>
+ <pubDate>Thu, 04 Mar 2021 05:26 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>NASA and the Merritt Island Wildlife Refuge</title>
+ <link>http://www.nasa.gov/image-feature/nasa-and-the-merritt-island-wildlife-refuge</link>
+ <description>Did you know that NASA&#039;s Kennedy Space Center shares its home with the Merritt Island National Wildlife Refuge?</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/2014-2930_1.jpg" length="1838378" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/nasa-and-the-merritt-island-wildlife-refuge</guid>
+ <pubDate>Wed, 03 Mar 2021 08:32 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Kelly Latimer:  Dryden&#039;s First Female Research Test Pilot</title>
+ <link>http://www.nasa.gov/image-feature/kelly-latimer-drydens-first-female-research-test-pilot</link>
+ <description>Kelly J. Latimer was a research pilot in the Flight Crew Branch of NASA&#039;s Dryden (now Armstrong) Flight Research Center.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/images/333151main_ED07-0045-3_full.jpg" length="693970" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/kelly-latimer-drydens-first-female-research-test-pilot</guid>
+ <pubDate>Tue, 02 Mar 2021 08:26 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Mary W. Jackson NASA Headquarters Sign Installation</title>
+ <link>http://www.nasa.gov/image-feature/mary-w-jackson-nasa-headquarters-sign-installation</link>
+ <description>On Thursday, Feb. 25, 2021, the Mary W. Jackson NASA Headquarters sign is installed ahead of the building naming ceremony.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/50982820971_1dd2fa382c_o.jpg" length="8772056" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/mary-w-jackson-nasa-headquarters-sign-installation</guid>
+ <pubDate>Mon, 01 Mar 2021 08:40 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Mary W. Jackson: NASA&#039;s First Female African American Engineer</title>
+ <link>http://www.nasa.gov/image-feature/mary-w-jackson-nasas-first-female-african-american-engineer</link>
+ <description>On Feb. 25, 2021, the NASA Headquarters Building in Washington D.C. was officially renamed after Mary W.  Jackson, the agency&#039;s first African American female engineer.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/lrc-1974-b701_p-00557_orig.jpg" length="19231550" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/mary-w-jackson-nasas-first-female-african-american-engineer</guid>
+ <pubDate>Fri, 26 Feb 2021 07:58 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Reflections from a Black Hole</title>
+ <link>http://www.nasa.gov/image-feature/reflections-from-a-black-hole</link>
+ <description>This 2003 composite X-ray and optical image of galaxy NGC 1068 shows gas blowing away in a high-speed wind from the vicinity of a supermassive black hole.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/50966281426_8af6f70876_o.jpg" length="2246933" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/reflections-from-a-black-hole</guid>
+ <pubDate>Thu, 25 Feb 2021 08:27 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Traversing Mars&#039; Jezero Crater</title>
+ <link>http://www.nasa.gov/image-feature/traversing-mars-jezero-crater</link>
+ <description>This image depicts a possible area through which the Mars 2020 Perseverance rover could traverse across Jezero Crater.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/25538_pia24310_-_farley_traverse_-_unannotated-web_1.jpg" length="382071" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/traversing-mars-jezero-crater</guid>
+ <pubDate>Wed, 24 Feb 2021 08:39 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Perseverance Snaps Its First Full-Color Image of Mars</title>
+ <link>http://www.nasa.gov/image-feature/perseverance-snaps-its-first-full-color-image-of-mars</link>
+ <description>This is the first high-resolution, color image to be sent back by the Hazard Cameras (Hazcams) on the underside of NASA’s Perseverance Mars rover after its landing.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia24430-1041.jpg" length="125401" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/perseverance-snaps-its-first-full-color-image-of-mars</guid>
+ <pubDate>Tue, 23 Feb 2021 09:09 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Alvin Drew: Down to Earth</title>
+ <link>http://www.nasa.gov/image-feature/alvin-drew-down-to-earth</link>
+ <description>On Feb. 28, 2011, NASA astronaut Alvin Drew participates in the STS-133 mission&#039;s first spacewalk as construction and maintenance continue on the International Space Station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss026e030929_0_0.jpg" length="1866524" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/alvin-drew-down-to-earth</guid>
+ <pubDate>Mon, 22 Feb 2021 02:28 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Perseverance Rover Lands on the Red Planet</title>
+ <link>http://www.nasa.gov/image-feature/perseverance-rover-lands-on-the-red-planet</link>
+ <description>NASAs Perseverance Rover lands on Mars.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/50956720568_2fe01ac19e_o.jpg" length="6258706" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/perseverance-rover-lands-on-the-red-planet</guid>
+ <pubDate>Fri, 19 Feb 2021 05:14 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Showcasing the Rover at the Perseverance Engineering and Technology Overview</title>
+ <link>http://www.nasa.gov/image-feature/showcasing-the-rover-at-the-perseverance-engineering-and-technology-overview</link>
+ <description>During the Mars Perseverance engineering and technology overview on Feb. 16, 2021, chief engineer Adam Steltzner displays a rover wheel.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/50951055811_13ac85047b_o.jpg" length="10939718" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/showcasing-the-rover-at-the-perseverance-engineering-and-technology-overview</guid>
+ <pubDate>Thu, 18 Feb 2021 08:24 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>The Empire State Building Illuminated for Mars Perseverance</title>
+ <link>http://www.nasa.gov/image-feature/the-empire-state-building-illuminated-for-mars-perseverance</link>
+ <description>The Empire State Building is illuminated in red to celebrate this Thursday&#039;s scheduled landing on Mars of NASA&#039;s Perseverance rover, Tuesday, Feb. 16, 2021.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/50951261693_1a133acf1a_o.jpg" length="3722413" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/the-empire-state-building-illuminated-for-mars-perseverance</guid>
+ <pubDate>Wed, 17 Feb 2021 08:18 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Astrobiologist Kennda Lynch Uses Analogs on Earth to Find Life on Mars</title>
+ <link>http://www.nasa.gov/image-feature/astrobiologist-kennda-lynch-uses-analogs-on-earth-to-find-life-on-mars</link>
+ <description>If we find life on the Red Planet, we&#039;ll have astrobiologists like Dr. Kennda Lynch to thank.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/picture-01a.jpg" length="1771038" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/astrobiologist-kennda-lynch-uses-analogs-on-earth-to-find-life-on-mars</guid>
+ <pubDate>Tue, 16 Feb 2021 19:40 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Bernard Harris: First African American Spacewalker</title>
+ <link>http://www.nasa.gov/image-feature/bernard-harris-first-african-american-spacewalker</link>
+ <description>A physician, flight surgeon, and NASA astronaut, Bernard Harris became the first African American to perform a spacewalk in February 1995, .</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/sts063-21-013.jpg" length="6510628" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/bernard-harris-first-african-american-spacewalker</guid>
+ <pubDate>Fri, 12 Feb 2021 07:27 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Crystal Clear: Observing Crystal Growth on the Space Station</title>
+ <link>http://www.nasa.gov/image-feature/crystal-clear-observing-crystal-growth-on-the-space-station-0</link>
+ <description>There are more than 100,000 proteins in the human body. Every structure is different, and each one of them holds important information related to our health.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/6_fen2.jpg" length="6531359" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/crystal-clear-observing-crystal-growth-on-the-space-station-0</guid>
+ <pubDate>Thu, 11 Feb 2021 07:00 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>The Coalsack Nebula</title>
+ <link>http://www.nasa.gov/image-feature/the-coalsack-nebula</link>
+ <description>This stunning image captures a small region on the edge of the inky Coalsack Nebula, or Caldwell 99.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/coalsack_acs1_hpfinal.jpg" length="2463545" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/the-coalsack-nebula</guid>
+ <pubDate>Wed, 10 Feb 2021 08:07 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Sunrise Over the Pacific</title>
+ <link>http://www.nasa.gov/image-feature/sunrise-over-the-pacific</link>
+ <description>This view of a sunrise breaking through the Earth&#039;s horizon was taken as the International Space Station orbited 271 miles above the Pacific Ocean off the coast of southern Chile.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss064e029005.jpg" length="734806" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/sunrise-over-the-pacific</guid>
+ <pubDate>Tue, 09 Feb 2021 08:56 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Jeanette Epps: Astronaut and Aerospace Engineer</title>
+ <link>http://www.nasa.gov/image-feature/jeanette-epps-astronaut-and-aerospace-engineer</link>
+ <description>In this image from 2018, NASA astronaut Jeanette Epps trains in a U.S. spacesuit at the Johnson Space Center.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/jsc2017e126052.jpg" length="1774468" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/jeanette-epps-astronaut-and-aerospace-engineer</guid>
+ <pubDate>Mon, 08 Feb 2021 06:44 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Taken Under the &#039;Wing&#039; of the Small Magellanic Cloud</title>
+ <link>http://www.nasa.gov/image-feature/taken-under-the-wing-of-the-small-magellanic-cloud</link>
+ <description>The tip of the &quot;wing&quot; of the Small Magellanic Cloud galaxy is dazzling in this view from NASA&#039;s Great Observatories.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia16884_-_taken_under_the_wing_of_the_small_magellanic_cloud.jpg" length="13124650" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/taken-under-the-wing-of-the-small-magellanic-cloud</guid>
+ <pubDate>Fri, 05 Feb 2021 07:36 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Apollo 14 Arrives in Lunar Orbit on Feb. 4, 1971</title>
+ <link>http://www.nasa.gov/image-feature/apollo-14-arrives-in-lunar-orbit-on-feb-4-1971</link>
+ <description>Apollo 14 arrived n lunar orbit on Feb. 4, 1971 to prepare for the landing in and exploration of the Fra Mauro highlands.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/as14-0859-71p-101-1.31.71.jpg" length="3275945" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/apollo-14-arrives-in-lunar-orbit-on-feb-4-1971</guid>
+ <pubDate>Thu, 04 Feb 2021 08:32 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Seeing Our Moon from the Space Station</title>
+ <link>http://www.nasa.gov/image-feature/seeing-our-moon-from-the-space-station</link>
+ <description>The waning gibbous moon is pictured the day after its full Moon phase as the International Space Station orbited 264 miles above China near the Mongolian border.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss064e027825.jpg" length="1621094" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/seeing-our-moon-from-the-space-station</guid>
+ <pubDate>Wed, 03 Feb 2021 08:38 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>NASA Astronaut Victor Glover Works to Upgrade the Station</title>
+ <link>http://www.nasa.gov/image-feature/nasa-astronaut-victor-glover-works-to-upgrade-the-station</link>
+ <description>Victor Glover, who has accumulated 3,000 flight hours in more than 40 aircraft, over 400 carrier arrested landings and 24 combat missions, took his first spacewalk on Thursday, Jan. 28, 2021.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss064e027002.jpg" length="1449194" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/nasa-astronaut-victor-glover-works-to-upgrade-the-station</guid>
+ <pubDate>Tue, 02 Feb 2021 08:17 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Remembering STS-107 and Her Crew</title>
+ <link>http://www.nasa.gov/image-feature/remembering-sts-107-and-her-crew</link>
+ <description>The STS-107 crewmembers strike a ‘flying’ pose for their traditional in-flight crew portrait in the SPACEHAB Research Double Module aboard the Space Shuttle Columbia.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/sts107-735-032.jpg" length="2739828" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/remembering-sts-107-and-her-crew</guid>
+ <pubDate>Mon, 01 Feb 2021 07:53 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Hubble Spots an Interstellar Interaction</title>
+ <link>http://www.nasa.gov/image-feature/goddard/2021/hubble-spots-an-interstellar-interaction</link>
+ <description>Captured here by the NASA/ESA Hubble Space Telescope, ESO 455-10 is one such chaotic planetary nebula, located in the constellation of Scorpius (The Scorpion).</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/potw2104a_1.jpg" length="232568" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/goddard/2021/hubble-spots-an-interstellar-interaction</guid>
+ <pubDate>Fri, 29 Jan 2021 09:00 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>NASA&#039;s Day of Remembrance, Thursday, Jan. 28, 2021</title>
+ <link>http://www.nasa.gov/image-feature/nasas-day-of-remembrance-thursday-jan-28-2021</link>
+ <description>Acting NASA Administrator Steve Jurczyk places a wreath at the Space Shuttle Challenger Memorial during a ceremony that was part of NASA&#039;s Day of Remembrance.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/nhq202101280006_0.jpg" length="7154303" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/nasas-day-of-remembrance-thursday-jan-28-2021</guid>
+ <pubDate>Thu, 28 Jan 2021 15:10 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Welding Underway on Orion for First Artemis Mission Landing Astronauts on the Moon</title>
+ <link>http://www.nasa.gov/image-feature/welding-underway-on-orion-for-first-artemis-mission-landing-astronauts-on-the-moon</link>
+ <description>Welding Underway on Orion for First Artemis Mission Landing Astronauts on the Moon</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/artemis_iii_orion_weld_maf.jpg" length="7677437" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/welding-underway-on-orion-for-first-artemis-mission-landing-astronauts-on-the-moon</guid>
+ <pubDate>Wed, 27 Jan 2021 07:49 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Finding a New Earth</title>
+ <link>http://www.nasa.gov/image-feature/finding-a-new-earth</link>
+ <description>Kepler-22b is the first planet discovered inside the habitable zone of a Sun-like star.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/images/607694main_Kepler22bArtwork_full.jpg" length="893372" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/finding-a-new-earth</guid>
+ <pubDate>Tue, 26 Jan 2021 08:41 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Welcoming a New Addition to the Deep Space Network</title>
+ <link>http://www.nasa.gov/image-feature/welcoming-a-new-addition-to-the-deep-space-network</link>
+ <description>A powerful new antenna has been added to the NASA Space Communications and Navigation’s Deep Space Network.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia24163.jpg" length="572131" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/welcoming-a-new-addition-to-the-deep-space-network</guid>
+ <pubDate>Mon, 25 Jan 2021 08:28 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Hubble Takes Portrait of the ‘Lost Galaxy’</title>
+ <link>http://www.nasa.gov/image-feature/goddard/2021/hubble-takes-portrait-of-the-lost-galaxy</link>
+ <description>Located in the constellation of Virgo (The Virgin), around 50 million light-years from Earth, the galaxy NGC 4535 is truly a stunning sight to behold.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/potw2103a.jpg" length="4608348" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/goddard/2021/hubble-takes-portrait-of-the-lost-galaxy</guid>
+ <pubDate>Thu, 21 Jan 2021 13:42 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>NASA Provides Ground Support for COVID-19 Aid Work</title>
+ <link>http://www.nasa.gov/centers/armstrong/image-feature/nasa-provides-ground-support-for-covid19.html</link>
+ <description>NASA has once again joined forces with the community in the continuing effort to fight COVID-19.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/afrc2021-0004-24.jpg" length="1351549" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/centers/armstrong/image-feature/nasa-provides-ground-support-for-covid19.html</guid>
+ <pubDate>Thu, 21 Jan 2021 12:50 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Hot Fire Test of SLS Rocket Core Stage</title>
+ <link>http://www.nasa.gov/image-feature/hot-fire-test-of-sls-rocket-core-stage</link>
+ <description>The core stage for the first flight of NASA’s Space Launch System, or SLS, rocket is seen in the B-2 Test Stand during a scheduled 8-minute duration hot fire test, Saturday, Jan. 16, 2021.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/nhq202101160007_0.jpg" length="6542086" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/hot-fire-test-of-sls-rocket-core-stage</guid>
+ <pubDate>Tue, 19 Jan 2021 08:44 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Fulfilling the Dream</title>
+ <link>http://www.nasa.gov/image-feature/fulfilling-the-dream</link>
+ <description>President Lyndon B. Johnson signs the Civil Rights Act on July 2, 1964, as Rev. Dr. Martin Luther King Jr. and others, look on.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/best_lyndon_johnson_signing_civil_rights_act.jpg" length="769407" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/fulfilling-the-dream</guid>
+ <pubDate>Fri, 15 Jan 2021 09:02 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Bright, Blue Stars</title>
+ <link>http://www.nasa.gov/image-feature/bright-blue-stars</link>
+ <description>Inside star cluster NGC 602, a star-forming region in the Small Magellanic Cloud, bright, blue, newly formed stars are blowing a cavity in this nebula.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/images/440676main_STScI-2007-04a-full_full.jpg" length="1589658" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/bright-blue-stars</guid>
+ <pubDate>Thu, 14 Jan 2021 08:42 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Finding a Missing Black Hole</title>
+ <link>http://www.nasa.gov/image-feature/finding-a-missing-black-hole</link>
+ <description>Astronomers have no evidence that a distant black hole estimated to weigh between 3 billion and 100 billion times the mass of the Sun is anywhere to be found.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/a2261.jpg" length="3477704" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/finding-a-missing-black-hole</guid>
+ <pubDate>Wed, 13 Jan 2021 09:28 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Georgia HUNCH Students 3D Print Parts for Space Station</title>
+ <link>http://www.nasa.gov/centers/marshall/images/georgia-hunch-students-3d-print-parts-for-space-station.html</link>
+ <description>The HUNCH - High school students United with NASA to Create Hardware - Program  empowers and inspire students to launch their careers through the participation in the design and fabrication of real world products for NASA.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/dade_ms_students_with_flight_ultem.jpg" length="634787" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/centers/marshall/images/georgia-hunch-students-3d-print-parts-for-space-station.html</guid>
+ <pubDate>Mon, 11 Jan 2021 10:57 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>SpaceX Demo 2 Mission Launches into History</title>
+ <link>http://www.nasa.gov/image-feature/spacex-demo-2-mission-launches-into-history</link>
+ <description>In this black and white infrared image, a SpaceX Falcon 9 rocket carrying the company&#039;s Crew Dragon spacecraft is launched on NASA’s SpaceX Demo-2 mission.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/nhq202005300065.jpg" length="3708412" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/spacex-demo-2-mission-launches-into-history</guid>
+ <pubDate>Mon, 11 Jan 2021 08:14 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Northrop Grumman&#039;s Cygnus Space Freighter Departs Space Station</title>
+ <link>http://www.nasa.gov/image-feature/northrop-grummans-cygnus-space-freighter-departs-space-station</link>
+ <description>Northrop Grumman&#039;s Cygnus space freighter departs the International Space Station moments after being released from the Canadarm2 robotic arm.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss064e020569_0.jpg" length="3166644" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/northrop-grummans-cygnus-space-freighter-departs-space-station</guid>
+ <pubDate>Fri, 08 Jan 2021 08:33 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Behold: The City of Boston at Night!</title>
+ <link>http://www.nasa.gov/image-feature/behold-the-city-of-boston-at-night</link>
+ <description>The lights of the city of Boston seemingly spread from a central point in this image taken by the crew of the International Space Station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss064e016786.jpg" length="11701610" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/behold-the-city-of-boston-at-night</guid>
+ <pubDate>Thu, 07 Jan 2021 08:24 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+</channel>
+</rss>
